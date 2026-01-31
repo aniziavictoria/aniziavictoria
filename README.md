@@ -8,13 +8,6 @@
 
 ---
 
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=aniziavictoria&show_icons=true&theme=tokyonight&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniziavictoria&layout=compact&theme=tokyonight"/>
-</div>
-
----
-
 ## 🛠️ Tecnologias Web & Front-end
 
 <div align="center" style="display: inline_block"><br>
